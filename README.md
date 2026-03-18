@@ -52,8 +52,7 @@ flutter run
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/52da68ef-ea79-495f-9511-6f8be693ccfd" />
-)
+![Home](home.jpeg)
 
 ### 📤 Send Screen
 ![Send](assets/screenshots/send.png)
