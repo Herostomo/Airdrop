@@ -52,7 +52,8 @@ flutter run
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home]([assets/screenshots/home.png](https://github.com/Herostomo/Airdrop/blob/main/home.jpeg))
+![Home](<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/52da68ef-ea79-495f-9511-6f8be693ccfd" />
+)
 
 ### 📤 Send Screen
 ![Send](assets/screenshots/send.png)
