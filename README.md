@@ -55,7 +55,7 @@ flutter run
 ![Home](home.jpeg)
 
 ### 📤 Send Screen
-![Send](assets/screenshots/send.png)
+![Send](send.jpeg)
 
 ### 📥 Receive Screen
-![Receive](assets/screenshots/receive.png)
+![Receive](recieve.jpeg)
